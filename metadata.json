@@ -1,0 +1,6 @@
+{
+  "name": "Plumaje Mágico",
+  "description": "Plataforma especializada en el periquito australiano (Melopsittacus undulatus): enciclopedia, genética, colores y variedades visuales, catálogo de mutaciones, cuidados, salud, cría, calculadora genética y registro de aves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
