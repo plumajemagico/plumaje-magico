@@ -214,10 +214,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-verde-cesped-1',
-        url: 'https://images.unsplash.com/photo-1552728089-57bdde30beb3?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/verde-cesped.jpg',
         caption: 'Verde Césped ancestral silvestre con máscara amarilla nítida y plumaje verde brillante.',
-        author: 'Plumaje Mágico / Archivo de Especies',
-        license: 'CC-BY-SA / Plumaje Mágico',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['ancestral', 'verde', 'cesped', '0d']
       }
@@ -279,10 +279,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-verde-laurel-1',
-        url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/verde-laurel.jpg',
         caption: 'Ejemplar Verde Laurel mostrando la rica saturación verde bosque en el pecho.',
-        author: 'Plumaje Mágico Archive',
-        license: 'Standard Editorial License',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['laurel', 'dark_green', '1d', 'verde']
       }
@@ -328,10 +328,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-verde-oliva-1',
-        url: 'https://images.unsplash.com/photo-1552728089-57bdde30beb3?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/verde-oliva.jpg',
         caption: 'Tono oliva mate con doble factor de oscuridad en serie verde.',
-        author: 'Plumaje Mágico',
-        license: 'CC-BY',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['oliva', 'olive', '2d', 'verde']
       }
@@ -373,10 +373,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-verde-gris-1',
-        url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/verde-gris.jpg',
         caption: 'Verde gris mostrando la característica mancha gular gris ceniza.',
-        author: 'Aviario Plumaje Mágico',
-        license: 'CC-BY-SA',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['verde_gris', 'grey_green', 'factor_gris']
       }
@@ -424,10 +424,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-azul-cielo-1',
-        url: 'https://images.unsplash.com/photo-1549608276-5786777e6587?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/azul-cielo.jpg',
         caption: 'Azul Cielo clásico mostrando máscara blanca pura y tono celeste luminoso.',
-        author: 'Plumaje Mágico Archivo',
-        license: 'CC-BY-SA',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['sky_blue', 'azul_cielo', '0d', 'linea_azul']
       }
@@ -470,10 +470,10 @@ export const COLORS_DATA: ColorItem[] = [
     images: [
       {
         id: 'img-azul-cobalto-1',
-        url: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80',
+        url: '/ejemplares/azul-cobalto.jpg',
         caption: 'Azul Cobalto con máscara blanca y dibujo alar perfectamente delimitado.',
-        author: 'Plumaje Mágico',
-        license: 'CC-BY-SA',
+        author: 'Plumaje Mágico / Galería de Ejemplares',
+        license: 'Fotografía propia / Plumaje Mágico',
         verifiedIdentification: true,
         tags: ['cobalto', 'cobalt', '1d', 'linea_azul']
       }
