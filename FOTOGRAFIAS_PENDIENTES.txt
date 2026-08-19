@@ -1,0 +1,29 @@
+FOTOGRAFÍAS PENDIENTES DE SUBIR
+================================
+
+Estas rutas ya están creadas en el código. Solo falta subir la fotografía con el nombre indicado a la carpeta correspondiente.
+
+Dominantes/
+- darkwing.jpg
+- easley-clearbody.jpg
+- blanco-ojos-negros.jpg
+- perlado-df-blanco.jpg
+- perlado-df-amarillo.jpg
+
+Recesivas/
+- dun-fallow.jpg
+
+Factores/
+- factor-oscuridad.jpg
+- factor-violeta.jpg
+- violeta-cielo.jpg
+- antracita.jpg
+
+Otras/
+- arcoiris.jpg
+
+Patrones/
+- pio-holandes.jpg
+
+NOTA:
+No se crearon fotografías ficticias ni archivos de imagen de relleno.
